@@ -16,6 +16,10 @@ body {
     padding: 20px;
 }
 
+.item p{
+    display: inline-block;
+}
+
 .flavor, .dessert {
     text-align: left;
     width: 75%;
@@ -24,8 +28,4 @@ body {
 .price {
     text-align: right;
     width: 25%;
-}
-
-.item p{
-    display: inline-block;
 }
