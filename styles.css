@@ -7,6 +7,10 @@ body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 
+.established {
+    font-style: italic;
+}
+
 .menu {
     width: 80%;
     max-width: 500px;
