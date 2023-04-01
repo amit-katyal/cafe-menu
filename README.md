@@ -5,7 +5,7 @@ This project is a simple, yet elegant cafe menu webpage built using HTML and CSS
 ## Features
 
 - Eye-catching main heading, with the year the cafe was established displayed in italics
-- HTML horizontal rule thematic break (`<hr>`) elements used to separate sections
+- HTML horizontal rule thematic break elements used to separate sections
 - Coffee section with a coffee icon and a list of available coffee options along with their prices
 - Dessert section with a pie icon and a list of available desserts along with their prices
 - Footer containing a link to the cafe's website and its physical address
