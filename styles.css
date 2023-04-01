@@ -28,6 +28,10 @@ h2 {
     padding: 20px;
 }
 
+hr {
+    height: 3px;
+}
+
 h1, h2 {
     font-family: Impact,serif;
 }
